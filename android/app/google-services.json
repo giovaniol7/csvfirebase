@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "469738244028",
+    "firebase_url": "https://notafiscalpapelaria-default-rtdb.firebaseio.com",
+    "project_id": "notafiscalpapelaria",
+    "storage_bucket": "notafiscalpapelaria.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469738244028:android:4d7d9f2331170878b00db9",
+        "android_client_info": {
+          "package_name": "com.example.csv2firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469738244028-rtnvj9474rhaf9gjh1gdjrf19j8pd1us.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmpt9jx701wgTVe5whhaOVhgpBNfmZ_7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469738244028-rtnvj9474rhaf9gjh1gdjrf19j8pd1us.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "469738244028-68dugc56f9iaelr7jdda7tv3qmj5e1jr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.csv2firebase"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469738244028:android:0dd61df592f81d86b00db9",
+        "android_client_info": {
+          "package_name": "com.example.notapapelaria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469738244028-rtnvj9474rhaf9gjh1gdjrf19j8pd1us.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmpt9jx701wgTVe5whhaOVhgpBNfmZ_7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469738244028-rtnvj9474rhaf9gjh1gdjrf19j8pd1us.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "469738244028-68dugc56f9iaelr7jdda7tv3qmj5e1jr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.csv2firebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
